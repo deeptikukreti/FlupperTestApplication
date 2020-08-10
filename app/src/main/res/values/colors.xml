@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#000000</color>
+    <color name="faded_black">#80000000</color>
+    <color name="colorPointer">#222222</color>
+    <color name="positiveButtonTextColor">@color/colorAccent</color>
+    <color name="negativeButtonTextColor">@color/colorAccent</color>
+
+</resources>

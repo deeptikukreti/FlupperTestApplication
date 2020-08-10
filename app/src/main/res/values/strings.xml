@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlupperTestApplication</string>
+    <string name="file_provider_name" translatable="false">.fileProvider</string>
+    <string name="permission_not_granted">Permissions not grated</string>
+    <string name="select_capture_image">Please select or capture image</string>
+    <string name="some_err">Some error occured, please try again later.</string>
+    <string name="material_dialog_title">Choose Color</string>
+    <string name="material_dialog_positive_button" translatable="false">@android:string/ok</string>
+    <string name="material_dialog_negative_button" translatable="false">@android:string/cancel</string>
+    <string name="title_recent_colors">Recent Colors</string>
+
+</resources>
